@@ -19,5 +19,16 @@
   ],
   "publications": [
     
-  ]
+  ],
+  "hobbies": [
+    {
+      "name": "Reading history"
+    },
+    {
+      "name": "Tennis"
+    },
+    {
+      "name": "Playing video games"
+    }
+  ] 
 }

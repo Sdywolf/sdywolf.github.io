@@ -11,4 +11,4 @@ nav_order: 6
 
 Organize your courses by years, topics, or universities, however you like! -->
 Teaching Assistant, _Software Analysis_ 25-Fall, Peking University
-Instructor: [Yingfei Xiong](https://xiongyingfei.github.io/); Homepage: https://xiongyingfei.github.io/SA_new/2025/
+Instructor: [Yingfei Xiong](https://xiongyingfei.github.io/); Homepage: [https://xiongyingfei.github.io/SA_new/2025/](https://xiongyingfei.github.io/SA_new/2025/)
