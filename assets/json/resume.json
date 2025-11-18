@@ -17,18 +17,38 @@
       "endDate": "2025-07-01"
     }
   ],
+
   "publications": [
     
   ],
-  "hobbies": [
-    {
-      "name": "Reading history"
-    },
-    {
-      "name": "Tennis"
-    },
-    {
-      "name": "Playing video games"
-    }
-  ] 
+  "interests": [
+  {
+    "name": "Programming Languages",
+    "keywords": [
+      "verification",
+      "program logic"
+    ]
+  },
+  {
+    "name": "Reading",
+    "keywords": [
+      "history",
+      "social science",
+      "Chinese classic texts"
+    ]
+  },
+  {
+    "name": "Tennis",
+    "keywords": [
+      "forehand topspin",
+      "serving"
+    ]
+  },
+  {
+    "name": "Video Games",
+    "keywords": [
+      "RPG",
+      "history"
+    ]
+  }]
 }
